@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/react-keeperApp/static/js/main.795914d4.chunk.js",
+    "main.js.map": "/react-keeperApp/static/js/main.795914d4.chunk.js.map",
+    "runtime-main.js": "/react-keeperApp/static/js/runtime-main.adc5c20f.js",
+    "runtime-main.js.map": "/react-keeperApp/static/js/runtime-main.adc5c20f.js.map",
+    "static/js/2.82dff26f.chunk.js": "/react-keeperApp/static/js/2.82dff26f.chunk.js",
+    "static/js/2.82dff26f.chunk.js.map": "/react-keeperApp/static/js/2.82dff26f.chunk.js.map",
+    "index.html": "/react-keeperApp/index.html",
+    "precache-manifest.8c0ab1ee4bee73ef25222f28d57c9998.js": "/react-keeperApp/precache-manifest.8c0ab1ee4bee73ef25222f28d57c9998.js",
+    "service-worker.js": "/react-keeperApp/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adc5c20f.js",
+    "static/js/2.82dff26f.chunk.js",
+    "static/js/main.795914d4.chunk.js"
+  ]
+}
